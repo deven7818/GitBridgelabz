@@ -1,4 +1,4 @@
-
+#prime Number From Range
 
 echo "Enter Start Number"
 read m

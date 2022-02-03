@@ -9,4 +9,3 @@ read m
 let P=$(( $n**$m ))
 
 echo "The answer is" $P
-

@@ -1,3 +1,5 @@
+#Gamble with while loop
+
 cash=100
 goal=200
 bet=20

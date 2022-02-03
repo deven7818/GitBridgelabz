@@ -1,3 +1,5 @@
+#powers of 2 that are less than or equal to 2^n till 256 is reached..
+
 #!bin/bash -x
 
 echo "Enter the number to be done"

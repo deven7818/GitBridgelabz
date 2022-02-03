@@ -1,3 +1,5 @@
+#Program to compute Factors of a number N using prime factorization method.
+
 #!/bin/bash
 echo "enter the number"
 read num

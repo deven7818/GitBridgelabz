@@ -1,3 +1,5 @@
+#Magic Number
+
 #!/bin/bash
 echo "Guess Number between 0 to 100"
 num=$(((RANDOM%100)+1))
