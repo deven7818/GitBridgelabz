@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash -x
 echo "Enter the number"
 read n
 function pal
